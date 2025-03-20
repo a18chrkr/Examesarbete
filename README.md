@@ -1,2 +1,2 @@
-# Examesarbete
- Esamensarbete för programmet Webbutvecklare - Programmering på Högskolan i Skövde
+# Examensarbete
+ Examensarbete för programmet "Webbutveckling - Programmering" på Högskolan i Skövde
